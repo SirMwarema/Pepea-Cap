@@ -1,2 +1,2 @@
 # Pepea-Cap
-Credit Score Platform
+Finacial Platform
